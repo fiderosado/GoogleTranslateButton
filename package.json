@@ -1,0 +1,48 @@
+{
+  "name": "googletranslatebutton",
+  "version": "1.0.0",
+  "description": "A Google Translate Button for React by SerproTeam",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6008",
+    "build-storybook": "storybook build"
+  },
+  "keywords": [
+    "SerproTeam",
+    "Google",
+    "Translate",
+    "Button",
+    "Google Translate Button",
+    "React"
+  ],
+  "author": "Fidel Remedios Rosado",
+  "license": "ISC",
+  "homepage": "https://github.com/fiderosado/GoogleTranslateButton",
+  "bugs": {
+    "url": "https://github.com/fiderosado/GoogleTranslateButton/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiderosado/GoogleTranslateButton.git"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^3.2.2",
+    "@storybook/addon-essentials": "^8.4.7",
+    "@storybook/addon-interactions": "^8.4.7",
+    "@storybook/addon-onboarding": "^8.4.7",
+    "@storybook/addon-webpack5-compiler-swc": "^1.0.5",
+    "@storybook/blocks": "^8.4.7",
+    "@storybook/react": "^8.4.7",
+    "@storybook/react-webpack5": "^8.4.7",
+    "@storybook/test": "^8.4.7",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "storybook": "^8.4.7"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
