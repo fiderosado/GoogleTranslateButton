@@ -1,10 +1,10 @@
 {
   "name": "googletranslatebutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Google Translate Button for React by SerproTeam",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "storybook dev -p 6008",
     "storybook": "storybook dev -p 6008",
     "build-storybook": "storybook build"
   },
